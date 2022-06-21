@@ -12,11 +12,11 @@ An investor wants to learn more about the weather for the months of June and Dec
   - Git Bash
   
 ## Results
-The following table summarizes June's temperature statistics.
-![image](https://user-images.githubusercontent.com/102638461/174691594-255745ff-1084-4ea0-b4c2-42295cdc6e15.png)
+The following table summarizes June's temperature statistics:
+- ![image](https://user-images.githubusercontent.com/102638461/174691594-255745ff-1084-4ea0-b4c2-42295cdc6e15.png)
 
-The following table summarizes Decembers temperature statistics.
-![image](https://user-images.githubusercontent.com/102638461/174691612-1be9340f-ae41-4468-9370-a56bd39e6c64.png)
+The following table summarizes Decembers temperature statistics:
+- ![image](https://user-images.githubusercontent.com/102638461/174691612-1be9340f-ae41-4468-9370-a56bd39e6c64.png)
 
 According to the data between both tables, we can see that:
 - The average temperature in June is around 74 degrees, whereas in December, we expect cooler air throughout the 71 degrees range.
