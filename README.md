@@ -25,3 +25,4 @@ According to the data between both tables, we can see that:
 
 ## Summary
 In summary, the temperature in Oahu is relatively the same throughout the year. Due to low rainfall and very similar temperatures, it would be very ideal for the investor to open up his surf shop in Hawaii. Additional queries that could be run may include precipation rates in June and December, as well as a comaparison by weather stations located throughout the island for a more specific weather pattern across each region.
+
